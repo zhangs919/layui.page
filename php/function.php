@@ -14,16 +14,16 @@
  * 将字符串参数变为数组
  * @param $query
  * @return array array (size=10)
-'m' => string 'content' (length=7)
-'c' => string 'index' (length=5)
-'a' => string 'lists' (length=5)
-'catid' => string '6' (length=1)
-'area' => string '0' (length=1)
-'author' => string '0' (length=1)
-'h' => string '0' (length=1)
-'region' => string '0' (length=1)
-'s' => string '1' (length=1)
-'page' => string '1' (length=1)
+ * 'm' => string 'content' (length=7)
+ * 'c' => string 'index' (length=5)
+ * 'a' => string 'lists' (length=5)
+ * 'catid' => string '6' (length=1)
+ * 'area' => string '0' (length=1)
+ * 'author' => string '0' (length=1)
+ * 'h' => string '0' (length=1)
+ * 'region' => string '0' (length=1)
+ * 's' => string '1' (length=1)
+ * 'page' => string '1' (length=1)
  */
 function convert_url_query($query)
 {
