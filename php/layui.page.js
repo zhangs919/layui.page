@@ -4,7 +4,7 @@
  * @param cur_page
  * @param url_string
  *
- * @author 雲溪荏苒
+ * @author 雲溪荏苒 <290648237@qq.com>
  * @date 2017-09-27
  */
 function lay_page (total, cur_page, url_string) {
